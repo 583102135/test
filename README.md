@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[testpage](https://github.com/583102135/test/edit/master/test/testpage.md)
+[testpage](https://github.com/583102135/test/edit/master/test/testpage)
 
 You can use the [editor on GitHub](https://github.com/583102135/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
