@@ -2,11 +2,11 @@
 ## sub title
 test code:
 
-```C
+```c
 #include <header.h>
 int main(int c, char *p[])
 {
-  return 0
+  return 0;
 }
 ```
 
